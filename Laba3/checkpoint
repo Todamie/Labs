@@ -1,0 +1,2 @@
+model_checkpoint_path: "skip_gram_weights_wiki_5000000"
+all_model_checkpoint_paths: "skip_gram_weights_wiki_5000000"
